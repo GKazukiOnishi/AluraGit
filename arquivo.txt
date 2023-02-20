@@ -6,3 +6,5 @@ alterando mais
 
 alterando outra coisa para testar rebase
 corrigindo bug
+
+Alterando coisa para dar conflito
